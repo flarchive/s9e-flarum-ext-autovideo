@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of s9e/flarum-ext-autovideo.** Not for installation: use [Packagist](https://packagist.org/packages/s9e/flarum-ext-autovideo) or the [upstream repository](https://github.com/s9e/flarum-ext-autovideo).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/s9e-flarum-ext-autovideo/tree/archive/v1.1.0) · License: `MIT` · Flarum: `>=0.1.0-beta.8`
+**2** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/s9e-flarum-ext-autovideo/tree/archive/v1.1.0) · License: `MIT` · Flarum: `>=0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2016-09-19 | `>=0.1.0-beta.5` | [Browse](https://github.com/flarchive/s9e-flarum-ext-autovideo/tree/archive/v1.0.0) |
+| `1.1.0` | 2017-12-27 | `>=0.1.0-beta.8` | [Browse](https://github.com/flarchive/s9e-flarum-ext-autovideo/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/s9e-flarum-ext-autovideo.json](https://github.com/flarchive/archive-index/blob/main/packages/s9e-flarum-ext-autovideo.json)
 
